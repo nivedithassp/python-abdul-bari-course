@@ -1,0 +1,14 @@
+String is array of chars
+have index
+reverse index is also there
+---------------------
+    0,1,2,3
+s1 ='hello'
+   -4,-3,-2,-1
+
+  s1[1] =s1[-4]
+
+class str
+
+s2 =input('enter a string')
+len(s2)
