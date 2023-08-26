@@ -1,0 +1,13 @@
+python is a dynamically typed Language
+value assigned to a var determines its type
+x= 1
+x=13.54
+x='A'
+variables dont have a  data type they get assigned value of what they have as value
+
+
+data types
+1. numeric - int , float, boolean, complex
+2.seq - collec of values -> list(muttable),tuple(immutable),string,bytes,bytearray every value( has an index )
+3.set- set,frozenset here (no index )
+4.Dictionary-dict key value pair
